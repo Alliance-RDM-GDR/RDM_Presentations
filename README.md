@@ -8,6 +8,8 @@ All scholarly material in this repository is shared under the [CC BY 4.0 license
 
 ### Presentations available:
 
+- Handling and organizing research data: A primer for researchers [(Link)](https://github.com/Alliance-RDM-GDR/RDM_OrganizeData)
+
 - Sharing and depositing research data: A guide for researchers [(Link)](https://github.com/Alliance-RDM-GDR/RDM_DepositingData?tab=readme-ov-file)
 
 - Sharing biomedical images and reproducible workflows: A primer for researchers [(Link)](https://github.com/Alliance-RDM-GDR/RDM_BioimageFAIR)
@@ -21,6 +23,8 @@ Tout le matériel scientifique contenu dans ce référentiel est partagé sous l
  
 
 ### Présentations disponibles
+
+- Traitement et organisation des données de recherche: un guide à l'usage des chercheurs [(Lien)](https://github.com/Alliance-RDM-GDR/RDM_OrganizeData)
 
 - Partage et dépôt des données de recherche : un guide à l'usage des chercheurs [(Lien)](https://github.com/Alliance-RDM-GDR/RDM_DepositingData?tab=readme-ov-file)
 
