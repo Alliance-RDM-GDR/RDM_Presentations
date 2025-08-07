@@ -76,15 +76,13 @@ Ces ressources pédagogiques visent à soutenir les chercheurs dans l'organisati
 
 ## 📬 Contact
 
-    FRDR Data Curation Team  
-    Federated Research Data Repository (FRDR)  
+    Curation Services Team  
     Email: curators@frdr-dfdr.ca  
-    Website: https://www.frdr-dfdr.ca/repo/
 ---
 
 ## 💡 Citation
 
     Please cite these materials as:  
-    FRDR Data Curation Team. (2025). *FRDR Research Data Management Presentations*.  
-    Federated Research Data Repository.  
-    https://github.com/Alliance-RDM-GDR/RDM_FRDR_Presentations
+    Curation Services Team. (2025). *Research Data Management Presentations*.  
+    Digital Research Alliance of Canada.  
+    https://github.com/Alliance-RDM-GDR/RDM_Presentations
