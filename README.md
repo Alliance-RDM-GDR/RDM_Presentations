@@ -1,6 +1,6 @@
 # Presentations on Research Data Management
 
-This repository contains links to research data management presentations developed by the **Data Curation Team** of the **Federated Research Data Repository (FRDR)**.
+This repository contains links to research data management presentations developed by the **Curation Services team**.
 
 These educational resources aim to support researchers in organizing, sharing, and working with research data across disciplines.
 
